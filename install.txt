@@ -1,0 +1,6 @@
+	Coded by Metts - metts.blog.hu - da.metts@hotmail.com
+	[INSTALL]
+		Chrome -> Eszközök -> Bővítmények -> Kicsomagolt bővítmények betöltése...
+			mountolt be a kicsomagolt .zip file-t
+	[USAGE]
+		jelöld ki a szöveget, és JOBB klikk. Majd ncore-ra jelentkezz be, ha nem voltál belépve....
